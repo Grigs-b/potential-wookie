@@ -2,4 +2,4 @@
 Webpage
 
 Current look:
-![first look](http://i.imgur.com/XnmUSBx.png)
+![second look](http://i.imgur.com/UKKx0T8.png)
